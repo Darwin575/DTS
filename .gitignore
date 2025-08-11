@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Vendor directory
+/vendor/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Large files
+*.zip
+*.rar
+*.7z
+uploads/*
+!uploads/.gitkeep
+
+# Configuration files with sensitive data
+config.private.php
+
+# ...existing code...
+test-env.php

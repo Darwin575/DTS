@@ -1,0 +1,5269 @@
+2025-05-06T17:51:51+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T17:52:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T17:52:09+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T17:53:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T17:53:31+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T17:59:53+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 135
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:00:05+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 135
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:04:42+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 124
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:06:45+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 119
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:07:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 121
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:08:18+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 135
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:16:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:18:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:19:05+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:19:15+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-06T18:20:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 130
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:23:37+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:26:21+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:40:29+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:42:59+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:43:58+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:47:19+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-06T18:48:17+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 124
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T09:23:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:17:41+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:22:42+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:34:09+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:36:19+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:41:31+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:43:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T12:57:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:00:28+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:01:07+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:02:17+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:04:32+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:08:28+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:09:59+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:10:47+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:13:08+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:16:51+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:19:10+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:19:36+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:19:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:28:26+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:29:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T13:58:08+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:15:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:20:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:21:24+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-07T14:30:48+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:32:27+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:33:44+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:34:54+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:36:04+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:41:29+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:49:06+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:57:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:58:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:58:29+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 129
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:58:47+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 129
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T14:59:09+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-07T15:01:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-07T15:02:18+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-07T15:04:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T15:05:05+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T15:39:17+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T16:08:32+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T16:41:42+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T16:46:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T16:49:42+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 139
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:00:34+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:05:39+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 132
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:08:15+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 135
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:12:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 141
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:17:36+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 142
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:20:35+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:38:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:39:36+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 126
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:41:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:41:49+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:50:22+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 127
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T17:57:41+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-07T20:46:29+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-08T03:55:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 135
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T03:58:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 144
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T03:59:21+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T07:08:40+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T07:25:41+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T07:37:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T07:39:27+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T09:09:39+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T09:09:49+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T09:13:02+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T09:13:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T10:04:13+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T10:04:37+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T10:54:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T10:54:22+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T10:54:28+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T11:02:50+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T11:19:47+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 143
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T11:20:01+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 128
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T11:20:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 154
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T12:11:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 140
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T12:27:30+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 146
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T12:28:20+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T14:05:05+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 145
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T18:26:56+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 160
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T19:37:26+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 169
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-08T19:44:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 170
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-09T11:13:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T11:32:49+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 171
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-09T11:33:34+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 171
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T11:35:09+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 171
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-09T11:43:51+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 171
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T11:57:38+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 136
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-09T12:35:24+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.9
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-09T12:56:45+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T17:14:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 211
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T17:16:55+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 207
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-09T17:31:36+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 207
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.6
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+)
+
+2025-05-10T13:52:44+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 220
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-10T13:53:34+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 121
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-10T13:53:47+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 125
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-10T16:45:26+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-10T19:10:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 130
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-11T06:21:30+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => 
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 224
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T06:57:03+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => 
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 202
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T07:19:35+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1746095113.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 202
+            [access_type] => embed
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-11T07:20:39+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => 
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 202
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T08:43:58+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => 
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_16_1746945474.jpeg
+            [esig_path] => 
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 228
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T08:45:04+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 18
+            [name] => 
+            [office_name] => erica
+            [email] => caneteericamamae@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_18_1746945459.jpg
+            [esig_path] => 
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 228
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-11T08:46:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 17
+            [name] => Kristal 
+            [office_name] => cristal
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_17_1746945552.jpeg
+            [esig_path] => 
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 228
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.43
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T08:53:09+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => Magie
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_16_1746945474.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_16_1746946170.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 229
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T08:54:58+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 17
+            [name] => Kristal 
+            [office_name] => cristal
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_17_1746945552.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_17_1746946241.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 229
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.43
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T08:56:11+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 18
+            [name] => 
+            [office_name] => erica
+            [email] => caneteericamamae@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_18_1746945459.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_18_1746946187.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 229
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-11T09:04:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 16
+            [name] => Magie
+            [office_name] => Iggy
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_16_1746945474.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_16_1746946170.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 230
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-11T09:57:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 18
+            [name] => 
+            [office_name] => erica
+            [email] => caneteericamamae@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_18_1746945459.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_18_1746946187.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 231
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.8
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-12T20:46:01+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 245
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-13T00:08:55+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.2
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-13T07:05:19+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => office 2
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747106068.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747107716.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 255
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.148
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:09:41+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 257
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:10:33+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 257
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:15:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 258
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:18:37+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:26:49+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:31:20+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T07:34:39+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747112017.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.68.140
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T08:28:45+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 24
+            [name] => 
+            [office_name] => RCDS
+            [email] => r10.rcds@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 261
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.143
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-13T08:37:35+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 25
+            [name] => 
+            [office_name] => ARDA
+            [email] => r10.arda@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 262
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.121
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-13T08:42:45+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 26
+            [name] => 
+            [office_name] => ORD
+            [email] => r10.ord@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 262
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.126
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+)
+
+2025-05-13T08:54:01+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 25
+            [name] => 
+            [office_name] => ARDA
+            [email] => r10.arda@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 261
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.121
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T03:37:51+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => office 2
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747106068.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747107716.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 258
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.88
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T03:39:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => office 2
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747106068.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747107716.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 260
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.88
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:16:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => Kristal
+            [office_name] => office 4
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_22_1747112072.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747278189.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.188
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:18:42+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => office 2
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747106068.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747107716.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 266
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.188
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-15T05:28:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Erica
+            [office_name] => office 3
+            [email] => caneteericamamae@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_21_1747111581.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747111550.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 268
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.188
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:29:37+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => office 2
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747106068.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747107716.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 266
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.188
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:39:51+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 26
+            [name] => ORD
+            [office_name] => ORD
+            [email] => r10.ord@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_26_1747280221.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 261
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.191
+    [user_agent] => Mozilla/5.0 (iPad; CPU OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+)
+
+2025-05-15T05:45:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 24
+            [name] => 
+            [office_name] => RCDS
+            [email] => r10.rcds@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 270
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.189
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:52:07+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 24
+            [name] => AnaPagz
+            [office_name] => RCDS
+            [email] => r10.rcds@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_24_1747280889.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 271
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.189
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:56:31+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 27
+            [name] => Ferdinand R Yurz
+            [office_name] => ARDO
+            [email] => r10.ardo@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_27_1747280398.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 271
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.215
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+)
+
+2025-05-15T05:56:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 24
+            [name] => AnaPagz
+            [office_name] => RCDS
+            [email] => r10.rcds@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_24_1747280889.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 272
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.189
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-15T05:58:48+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 27
+            [name] => Ferdinand R Yurz
+            [office_name] => ARDO
+            [email] => r10.ardo@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_27_1747280398.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 272
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.215
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+)
+
+2025-05-15T05:59:50+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 25
+            [name] => JSSUPT GIL V INOPIA JR
+            [office_name] => ARDA
+            [email] => r10.arda@bjmp.gov.ph
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_25_1747280194.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 272
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.68.155
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-17T17:52:52+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 130
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-17T18:04:02+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 131
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-18T17:08:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 249
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-18T17:16:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 138
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-18T17:46:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 147
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T00:58:00+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 244
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T00:59:58+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 219
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T01:00:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 217
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T01:00:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 215
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T10:56:25+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => 
+            [office_name] => Financial
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 248
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.21
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-19T11:04:29+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 23
+            [name] => 
+            [office_name] => ORD
+            [email] => searicamae@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 249
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T11:12:33+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 23
+            [name] => 
+            [office_name] => ORD
+            [email] => searicamae@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_23_1747645940.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 251
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T11:17:55+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 251
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T11:21:22+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 249
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T11:27:40+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 253
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T11:28:06+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => Financial
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747646411_d7cac519e98a00ae.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747645147.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 253
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.21
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-19T11:33:23+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 254
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T11:34:02+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => Financial
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747646411_d7cac519e98a00ae.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747645147.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 254
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.21
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-19T11:36:24+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 255
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T11:37:57+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => Financial
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747646411_d7cac519e98a00ae.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747645147.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 255
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.21
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1
+)
+
+2025-05-19T11:50:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 256
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T12:01:12+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 20
+            [name] => Iggyboy
+            [office_name] => Financial
+            [email] => malacastefbby@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_20_1747646411_d7cac519e98a00ae.jpeg
+            [esig_path] => /DTS/uploads/esig/esig_user_20_1747645147.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 256
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.3
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-19T12:10:48+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 257
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T12:23:46+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 258
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T12:30:27+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => 
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => 
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 258
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.23
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-19T12:46:53+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => embed
+        )
+
+    [remote_addr] => 192.168.1.22
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+)
+
+2025-05-19T12:58:58+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => qr
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 9; vivo 1906 Build/PKQ1.190616.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 VivoBrowser/14.0.4.0
+)
+
+2025-05-19T13:01:47+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T13:05:25+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 9; vivo 1906 Build/PKQ1.190616.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 VivoBrowser/14.0.4.0
+)
+
+2025-05-19T13:08:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 261
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T13:11:01+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 262
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T13:37:35+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 263
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T14:01:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 21
+            [name] => Kristal
+            [office_name] => DICTM
+            [email] => ajonloren@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_21_1747645188.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 264
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.24
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-19T14:02:38+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => 
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747650685.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 259
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.23
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-19T14:06:55+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 22
+            [name] => 
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => C:\DTS\profile_pics\default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_22_1747650685.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 264
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.23
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+)
+
+2025-05-25T03:05:46+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 131
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-25T03:14:18+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 163
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-25T03:15:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 166
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-29T19:46:56+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 264
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-29T23:53:14+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 265
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+)
+
+2025-05-30T00:15:37+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 265
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.6
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-30T01:25:20+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 265
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.6
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-30T02:03:44+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 263
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.6
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-05-30T03:46:40+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/default_profile_pic.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748135730.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 258
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.6
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-06-03T07:10:33+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1746456732.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 248
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+)
+
+2025-06-03T10:20:16+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Jsupt. Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1746455788.jpg
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1748927151.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 248
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-04T19:00:50+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-04T19:02:40+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 242
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-04T19:41:03+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 237
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-04T19:53:01+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 2
+            [name] => Gerald Darwin Lariosa
+            [office_name] => RICTMD
+            [email] => geralddarwindagatan11@gmail.com
+            [profile_picture_path] => /DTS/uploads/profile/profile_2_1749047984_0dd2872d3d7ac8e4.png
+            [esig_path] => /DTS/uploads/esig/esig_user_2_1748927151.png
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 249
+            [access_type] => direct
+        )
+
+    [remote_addr] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-04T20:11:26+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 241
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-05T04:39:08+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 241
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-05T04:49:43+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 238
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-05T07:03:45+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 116
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+
+2025-06-05T08:45:10+02:00
+Array
+(
+    [session_user] => Array
+        (
+            [id] => 14
+            [name] => 
+            [office_name] => dasd
+            [email] => gemmalariosa81@gmail.com
+            [profile_picture_path] => 
+            [esig_path] => /DTS/uploads/esig/esig_user_14_1748927309.png
+            [role] => user
+        )
+
+    [post_data] => Array
+        (
+            [document_id] => 247
+            [access_type] => direct
+        )
+
+    [remote_addr] => 192.168.1.4
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+)
+

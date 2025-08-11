@@ -1,0 +1,33 @@
+
+
+/* Mobile-specific styles */
+@media screen and (max-width: 767px) {
+    #notificationMenu.dropdown-menu { 
+        width: 290px !important;
+        position: fixed !important;
+        right: 5px !important;
+        left: auto !important;
+        max-width: calc(100% - 10px) !important;
+        top: 50px !important; 
+     }
+
+    
+
+     #notificationMenu .dropdown-item {
+        padding: 8px 12px !important;
+        font-size: 15px !important;
+        
+    } 
+
+    /* .navbar-top-links {
+        position: static !important;
+    }  */
+}
+
+/* Ensure dropdown is visible on mobile */
+.navbar-top-links .dropdown.show .dropdown-menu {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    z-index: 1050 !important;
+}

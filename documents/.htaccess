@@ -1,0 +1,12 @@
+# C:\xampp\htdocs\DTS\documents\.htaccess
+
+Deny from all
+<FilesMatch "\.(pdf|docx|png)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+<FilesMatch "\\.(pdf)$">
+Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+Header set Pragma "no-cache"
+Header set Expires 0
+</FilesMatch>
